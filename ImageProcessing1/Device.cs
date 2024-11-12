@@ -25,12 +25,7 @@ namespace WebCamLib
 		private const int HWND_BOTTOM = 1;
 		
 		
-	//	[DllImport("inpout32.dll", EntryPoint="Out32")]
-	//	public static extern void Output(int adress, int value);
-		
-	//	[DllImport("inpout32.dll", EntryPoint="Inp32")]
-	//	public static extern int Input(int adress);
-		
+
 		[DllImport("avicap32.dll")]
         protected static extern int capCreateCaptureWindowA([MarshalAs(UnmanagedType.VBByRefStr)] ref string lpszWindowName,
             int dwStyle, int x, int y, int nWidth, int nHeight, int hWndParent, int nID);
@@ -96,20 +91,13 @@ namespace WebCamLib
                 SetWindowPos(deviceHandle, 1, 0, 0, windowWidth, windowHeight, 6);
             }
         }
-
-        /// <summary>
-        /// Shows the webcam preview in the control
-        /// </summary>
-        /// <param name="windowsControl">Control to attach the webcam preview</param>
-        ///                    global::  
+                  global::  
         public void ShowWindow(System.Windows.Forms.Control windowsControl )
         {
             Init(windowsControl.Height, windowsControl.Width , windowsControl.Handle.ToInt32());                        
         }
 
-        /// <summary>
-        /// Stop the webcam and destroy the handle
-        /// </summary>
+       
         public void Stop()
         {
             SendMessage(deviceHandle, WM_CAP_DRIVER_DISCONNECT, this.index, 0);
