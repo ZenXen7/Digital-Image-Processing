@@ -1,0 +1,38 @@
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\ImageProcessing1.exe.config
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\ImageProcessing1.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\ImageProcessing1.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.Form1.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.Properties.Resources.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\AForge.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\AForge.Video.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\AForge.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\AForge.Video.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS321] Application Development\ImageProcessing1\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.CopyComplete
+<<<<<<< HEAD
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\ImageProcessing1.exe.config
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\ImageProcessing1.exe
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\ImageProcessing1.pdb
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\AForge.dll
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\AForge.Video.dll
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\AForge.xml
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\AForge.Video.xml
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.AssemblyReference.cache
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImageProcessing1.Form1.resources
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImageProcessing1.Properties.Resources.resources
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.GenerateResource.cache
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImageProcessing1.csproj.CoreCompileInputs.cache
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImagePro.7E79D9EC.Up2Date
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImageProcessing1.exe
+C:\Users\Karl Christian Ajero\Downloads\Digital-Image-Proccessing\Digital-Image-Proccessing\ImageProcessing1\obj\Debug\ImageProcessing1.pdb
+=======
+>>>>>>> 7dc88dea4d28015f9e343ecb326f5ca378052134
